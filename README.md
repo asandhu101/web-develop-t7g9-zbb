@@ -34,4 +34,20 @@ The first and foremost reason for a theme park operator to have a website is the
 4. On Rides pages there will be brief details with pictures of the major rides in the park.
 5. On Other Info page there will be information about Location, food court and other services provided in the park.
 
+## Wireframes
 
+1. Homepage
+
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/1538806/172089421-4131860d-98c5-4e6e-86a3-d8f907739b60.png">
+
+2. Tickets
+
+<img width="323" alt="image" src="https://user-images.githubusercontent.com/1538806/172090559-57e0d8f3-8773-45ec-86a5-1d56c095c4a3.png">
+
+3. Rides
+
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/1538806/172090567-15c1d017-d5b5-492d-b25c-7a1f42d764ca.png">
+
+4. Other Information
+
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/1538806/172090573-47c5d415-2b90-44b5-9dd8-2201a1d98a33.png">
